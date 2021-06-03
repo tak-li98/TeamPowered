@@ -6,5 +6,6 @@ namespace TeamPowered
 {
     class Team
     {
+        string name = "Tigers";
     }
 }
